@@ -1,0 +1,5 @@
+#First, ensure that you have the latest pip: python -m pip install -U mypy
+mypy #static typing
+numpy #math lib
+matplotlib #do some graph
+jupyter #to create documents
