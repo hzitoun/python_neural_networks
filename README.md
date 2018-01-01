@@ -1,2 +1,2 @@
-# python_neural_networks
-Some neural networks I'm building from scratch while learning using python 
+# Python_neural_networks_from_scratch
+Some neural networks I'm building from scratch using Python while learning data science
