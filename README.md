@@ -1,4 +1,4 @@
-# Python_neural_networks_from_scratch
+# Building Python NNs from scratch
 Some neural networks I'm building from scratch using Python while learning data science
 ## Install requirements
 If you're using Anaconda, then just install mypy (for static typing) `python -m pip install -U mypy` otherwise:
